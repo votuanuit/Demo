@@ -15,6 +15,7 @@ namespace ProjectDemo
         {
 
         }
+        jhg
         public PhanSo(int tu, int mau)
         {
             this.tu = tu;

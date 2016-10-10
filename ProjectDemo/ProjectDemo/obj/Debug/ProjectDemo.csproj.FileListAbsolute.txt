@@ -3,3 +3,6 @@ C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
 C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
 C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.exe
 C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.pdb
+D:\Demo\Demo\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe.config
+D:\Demo\Demo\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.exe
+D:\Demo\Demo\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.pdb
