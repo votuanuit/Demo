@@ -1,0 +1,9 @@
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\Test.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\Test.pdb
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\ProjectDemo.exe
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\ProjectDemo.pdb
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\obj\Debug\Test.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\Test\obj\Debug\Test.pdb

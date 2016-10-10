@@ -1,0 +1,5 @@
+C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe.config
+C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
+C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
+C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.exe
+C:\Users\VoTuanUit\Desktop\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.pdb

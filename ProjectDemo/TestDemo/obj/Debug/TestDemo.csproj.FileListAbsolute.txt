@@ -1,0 +1,9 @@
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\TestDemo.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\TestDemo.pdb
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\nunit.framework.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\ProjectDemo.exe
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\ProjectDemo.pdb
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\bin\Debug\nunit.framework.xml
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\obj\Debug\TestDemo.csprojResolveAssemblyReference.cache
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\obj\Debug\TestDemo.dll
+C:\Users\VoTuanUit\Desktop\ProjectDemo\TestDemo\obj\Debug\TestDemo.pdb
